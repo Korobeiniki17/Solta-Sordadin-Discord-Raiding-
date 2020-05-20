@@ -1,0 +1,44 @@
+C:\Users\OMNIL\source\repos\DSpam\DSpam\bin\Debug\DSpam.exe.config
+C:\Users\OMNIL\source\repos\DSpam\DSpam\bin\Debug\DSpam.exe
+C:\Users\OMNIL\source\repos\DSpam\DSpam\bin\Debug\DSpam.pdb
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.csprojAssemblyReference.cache
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.Form1.resources
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.Properties.Resources.resources
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.csproj.GenerateResource.cache
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.csproj.CoreCompileInputs.cache
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.exe
+C:\Users\OMNIL\source\repos\DSpam\DSpam\obj\Debug\DSpam.pdb
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.exe
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.pdb
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\bin\Debug\DSpam.exe.config
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\bin\Debug\DSpam.exe
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.Properties.Resources.resources
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.csproj.GenerateResource.cache
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.csproj.CoreCompileInputs.cache
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\bin\Debug\DSpam.pdb
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.csprojAssemblyReference.cache
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.Form1.resources
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\Interop.WMPLib.dll
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.csproj.ResolveComReference.cache
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\bin\Debug\Interop.WMPLib.dll
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.Login.resources
+C:\Users\andriel\Desktop\bot discord\DSpam\DSpam\obj\Debug\DSpam.easteregg.resources
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\bin\Debug\DSpam.exe.config
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\bin\Debug\DSpam.exe
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\bin\Debug\DSpam.pdb
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.csprojAssemblyReference.cache
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.csproj.ResolveComReference.cache
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.easteregg.resources
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.Form1.resources
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.Login.resources
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.Properties.Resources.resources
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.csproj.GenerateResource.cache
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.csproj.CoreCompileInputs.cache
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.exe
+C:\Users\Korobeiniki\Desktop\DSpam\DSpam\obj\Debug\DSpam.pdb

@@ -1,0 +1,16 @@
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\bin\Debug\Interop.WMPLib.dll
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\bin\Debug\AxInterop.WMPLib.dll
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Interop.WMPLib.dll
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\AxInterop.WMPLib.dll
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Solta o Sordadinho.csproj.ResolveComReference.cache
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\DSpam.easteregg.resources
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\DSpam.Form1.resources
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\DSpam.Login.resources
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\DSpam.Properties.Resources.resources
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Solta o Sordadinho.csproj.GenerateResource.cache
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Solta o Sordadinho.csproj.CoreCompileInputs.cache
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\bin\Debug\Solta o Sordadinho.exe.config
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\bin\Debug\Solta o Sordadinho.exe
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\bin\Debug\Solta o Sordadinho.pdb
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Solta o Sordadinho.exe
+F:\Hacking\Discord Hacking\Discord Raiding\Solta o Sordadin\DSpam\obj\Debug\Solta o Sordadinho.pdb
